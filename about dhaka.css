@@ -1,0 +1,92 @@
+.dhaka{
+        
+  height: 70px;
+  width: 1180px;
+  align-items: center;
+  margin-left: 50px;
+  margin-top: 10px;
+  padding-top: 1px;
+  text-align: center;
+  background-color: darksalmon;
+}
+.spelling{
+        
+  height: 310px;
+  width: 720px;
+  align-items: center;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding-left: 20px;
+  padding-top: 10px;
+  border: solid crimson;
+  background-color: darksalmon;
+}
+
+  .scroller{
+    height: 315px;
+    width: 400px;
+    border: 5px solid red;
+    margin-top: -320px;
+    margin-left: 827px ;
+    padding-top: 0px ;
+    paddingleft: 40px;
+    overflow: scroll;
+  }
+
+  
+  
+
+  
+
+  .dh-3{
+        
+    height: 310px;
+    width: 500px;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+    background-color: darksalmon;
+  
+  }
+  .populous{
+          
+    height: 100px;
+    width: 1050px;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding-left: 150px;
+    padding-top: 20px;
+    text align: center;
+    overflow: none;
+    background-color: rgb(89, 56, 143);
+  }
+  
+  
+.dh-4{
+        
+  height: 300px;
+  width: 500px;
+  align-items: center;
+  margin-left: 720px;
+  margin-top: -330px;
+  padding-left: 40px;
+  padding-top: 40px;
+  background-color: darksalmon;
+}
+
+
+.dh-5{
+        
+  height: 430px;
+  width: 1200px;
+  align-items: center;
+  margin-left: 60px;
+  margin-top: 50px;
+  padding-left: 20px;
+  padding-top: 20px;
+  background-color: darksalmon;
+
+}

@@ -1,0 +1,143 @@
+
+    .logo { 
+        width: auto;
+        height: auto;
+        float:left;
+        padding:22.5px 0px 0px 10px;
+        
+      }
+    
+
+
+
+  .container{
+      height: 260px;
+      width: 730px;
+      background-color:darkolivegreen;
+      margin-left: 35px;
+
+  }
+  .pic{
+    height: 250px;
+    width: 420px;
+    align-items: left;
+    margin-left: 20px;
+    margin-top: -260px;
+    padding-left: 10px;
+    padding-top: 8px;
+    background-color: darksalmon;
+}
+.box{
+    background-color: cyan;
+    height: 40px;
+    width: 200px;
+    margin-left: 480px;
+    margin-top: 55px;
+    padding-left: 10px;
+    padding-top: 8px;
+    border: 1px solid crimson;
+    font-size: 20px;
+    border-radius: 5%;
+    display: flex; 
+    flex-direction: column;
+    text-align: center;
+
+}
+.box:hover{
+    background-color: rgb(187, 255, 0);
+    transition: background-color 5sec;
+}
+
+
+    .scroller{
+        height: 250px;
+        width: 420px;
+        border: 5px solid red;
+        margin-top: -260px;
+        margin-left: 800px;
+        padding-top: 0px;
+        padding-left: 15px; 
+        float: none;
+        overflow:scroll;
+    }
+    .png{
+        
+            height: 250px;
+            width: 420px;
+            align-items: center;
+            margin-left: 30px;
+            margin-top: 20px;
+            padding-left: 20px;
+            padding-top: 20px;
+            background-color: darksalmon;
+        }
+     .im{ 
+            height:250px;
+            width: 420px;
+            align-items: center;
+            margin-left: 805px;
+            margin-top: -270px;
+            padding-left: 20px;
+            padding-top: 20px;
+            background-color: darksalmon
+    
+        }
+    
+    
+     .cap{ 
+        height:250px;
+        width: 420px;
+        align-items: center;
+        margin-left: 825px;
+        margin-top: 5px;
+        padding-left: 10px;
+        padding-top: 8px;
+        background-color: darksalmon
+
+    }
+    .pg{ 
+        height:250px;
+        width: 425px;
+        align-items: center;
+        margin-left: 30px;
+        margin-top: -275px;
+        padding-left: 10px;
+        padding-top: 8px;
+        background-color: darksalmon;
+
+    }
+
+    .vic{
+        height:570px;
+        width: 300px;
+        align-items: center;
+        margin-left: 480px;
+        margin-top: -580px;
+        padding-left: 10px;
+        padding-top: 8px;
+        border: solid chocolate;
+        background-color: darksalmon;
+        text-align: center;
+
+    }
+
+    
+    .bd{
+        height: 250px;
+        width: 1220px;
+        background-color: green;
+        margin-left: 30px;
+        margin-top: 20px;
+        padding-top: 0px;
+        padding left: 10px;
+        float:none;
+        border: solid chocolate;
+        overflow:hidden;
+        text-size: 20px;
+        font-color: white:
+
+        
+
+    }
+
+

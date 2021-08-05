@@ -1,0 +1,29 @@
+
+
+
+.container{
+        height: 460px;
+        width: 730px;
+        margin-left: 20px;
+        margin-top: 10px;
+        padding-left: 10px;
+        padding-top: 10px;
+        background-color:rgb(167, 235, 49);
+        border: solid crimson;
+}
+    .how{
+        height: 460px;
+        width: 430px;
+        margin-left: 800px;
+        margin-top: -470px;
+        padding-left: 10px;
+        padding-top: 0px;
+        background-color:rgb(235, 49, 80);
+        border: solid rgb(167, 220, 20);
+        font-size: 50px;
+        overflow: none;
+
+    }
+        
+  
+    
